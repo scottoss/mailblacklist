@@ -1,2 +1,3 @@
-scamdomain.com
-phishing-site.xyz
+/.+@scamdomain\.com$/i
+/.+@phishing-site\.xyz$/i
+/.+@bad-actor-network\.net$/i
