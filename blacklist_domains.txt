@@ -1,3 +1,4 @@
 /.+@scamdomain\.com$/i
 /.+@phishing-site\.xyz$/i
 /.+@bad-actor-network\.net$/i
+/.+@shop\.tiktok\.com$/i
