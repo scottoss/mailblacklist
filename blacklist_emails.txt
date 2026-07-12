@@ -1,2 +1,3 @@
 /^badactor123@gmail\.com$/i
 /^spoofed-billing@outlook\.com$/i
+/^ossscott40@gmail\.com$/i
