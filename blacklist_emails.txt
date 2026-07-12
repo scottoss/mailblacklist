@@ -1,3 +1,2 @@
-spammer123@gmail.com
-spoofed-ceo@yahoo.com
-ossscott40@gmail.com
+/^badactor123@gmail\.com$/i
+/^spoofed-billing@outlook\.com$/i
